@@ -11,4 +11,18 @@ limitations under the License. -->
 
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Juan José Gómez Martinuzzo</string>
+    <string name="bio">I'm a simple person, a passionate developer, technology enthusiast, trying to improve myself and reach new standards.
+
+Working and learning something everyday, using .NET, JavaScript, SQL, PostgreSQL, C#, REST API, PHP, Python, Android developing in Xamarin, Flutter and Kotlin. Having to deal with lots of languages and positions made more flexible and creative on my job, making it a valuable experience.
+Future
+
+I began in 2019 an Applied AI Specialization in IBM because i'm fascinated about Artificial Intelligence and the current and potential impact it can have on our lives, and it helped me learn how AI and machine learning works in code.
+
+Retaking an AI Specialization, more especifically the AI Engineering Specialization from IBM, to get a larger grip on AI and Machine Learning to design more advanced products that can have an impact on people's lives. </string>
+
+    <string name="yellow_star">Yellow Star</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+
 </resources>
